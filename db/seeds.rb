@@ -22,5 +22,5 @@ end
 end
 
 100.times do
-  Stroll.create!(date: Faker::Date.forward(23), dog_id: rand(1..(Dog.all.count)), dogsitter_id: rand(1..(DogSitter.all.count)) ,city_id: rand(1..5))
+  Stroll.create!(date: Faker::Date.forward(23), dog_id: rand(1..(Dog.all.count)), dogsitter_id: rand(1..(Dogsitter.all.count)) ,city_id: rand(1..5))
 end
