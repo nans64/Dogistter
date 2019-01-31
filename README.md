@@ -1,25 +1,19 @@
-# README
+## THP - Semaine 4 - LE RbNB DU "IECH" FRERO !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+bundle install and you're ready to go
 
-Things you may want to cover:
+# Tables
 
-* Ruby version
+   - Dogsitter
+   - Dog
+   - Stroll
+   - City
 
-* System dependencies
+# Requirements
 
-* Configuration
+Find the perfect Dogsitter for your dog buddy ! Check this out !
 
-* Database creation
+# Version software
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Dogistter
+   - Ruby version 2.5.1
+   - Rails version 5.2.1
